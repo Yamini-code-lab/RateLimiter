@@ -1,0 +1,24 @@
+# Build folder
+build/
+
+# VS Code
+.vscode/
+
+# History extension
+.history/
+
+# Executables
+*.exe
+
+# Object files
+*.obj
+*.o
+
+# CMake generated files
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CMakeFiles/
+
+# Logs
+*.log
